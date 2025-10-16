@@ -14,6 +14,14 @@ A robust machine learning-based system designed to detect fraudulent transaction
 
 ---
 
+## 🔗 Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fraud-detection-system-yylatjs8xkj6vkidi8vdyv.streamlit.app/)
+
+> Click the badge to launch the app instantly — no setup required!
+
+---
+
 ## 🧰 Tech Stack
 
 | Component        | Details                          |
