@@ -28,7 +28,7 @@ A robust machine learning-based system designed to detect fraudulent transaction
 |------------------|----------------------------------|
 | Language         | Python                           |
 | Interface        | Streamlit                        |
-| Model            | Scikit-learn / XGBoost (assumed) |
+| Model            | Scikit-learn                     |
 | Notebook         | Jupyter Notebook (`.ipynb`)      |
 | Deployment       | GitHub Pages (optional)          |
 
