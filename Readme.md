@@ -16,7 +16,7 @@ A robust machine learning-based system designed to detect fraudulent transaction
 
 ## 🔗 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fraud-detection-system-yylatjs8xkj6vkidi8vdyv.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fraud-detection-system-8wny5mlvpnqrsnbhqmn8pa.streamlit.app/)
 
 > Click the badge to launch the app instantly — no setup required!
 
@@ -45,4 +45,5 @@ You can access it here:
 git clone https://github.com/ProfessionalPallav20014/Fraud-Detection-System.git
 cd Fraud-Detection-System
 pip install -r requirements.txt
+
 python -m streamlit run FD_interface.py
