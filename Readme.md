@@ -39,6 +39,18 @@ You can access it here:
 
 ---
 
+## 🚀 Model Enhancements (10/27/2025)
+
+Recent updates have significantly improved the performance and interpretability of the fraud detection system:
+
+- **Upgraded Model:** Replaced Logistic Regression with **LightGBM (LGBMClassifier)** to better handle class imbalance and achieve higher accuracy.
+- **Enhanced Evaluation:** Integrated **Precision**, **Recall**, and **F1-Score** metrics for a more comprehensive understanding of model performance on minority (fraud) cases.
+- **AUC-ROC Curve:** Added an **AUC-ROC Curve** visualization to graphically evaluate the trade-off between true positive and false positive rates.
+- **Improved Reliability:** Leveraged LightGBM’s gradient boosting framework for improved precision, recall stability, and faster model convergence compared to linear models.
+- I previously lost my improvements due to git command mishandling and removed my whole repository and now I have fixed everything, work needs to be finished you know ;)  
+
+---
+
 ## ⚙️ Installation
 
 ```bash
@@ -47,3 +59,5 @@ cd Fraud-Detection-System
 pip install -r requirements.txt
 
 python -m streamlit run FD_interface.py
+
+
